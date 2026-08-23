@@ -1,0 +1,7 @@
+forge_project HelloWorld
+standard c++17
+output HelloWorld
+
+sources
+    src/main.cpp
+end
