@@ -2,6 +2,19 @@
 
 All notable Forge2D releases are documented here.
 
+## [1.0.2] — 2026
+
+### Fixed
+
+* Fixed colour misalignment in text editor.
+* Fixed user made syntax being uncoloured.
+
+### Notes
+
+Forge2D 1.0.2 is an independent release focused on improving reliability, project validation, and the overall user experience.
+
+---
+
 ## [1.0.1] — 2026
 
 ### Added
